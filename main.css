@@ -1,0 +1,21 @@
+body {font-family: Arial, Helvetica, sans-serif;
+}
+header{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+h1{
+  background-color: #fff200;
+  padding:50px;
+}
+h2{
+  border-bottom: 2px;
+  border-bottom-style: solid;
+  margin-right: 150px;
+  color: #000000;
+}
+.subheader{
+
+}
+#id{
+
+}
