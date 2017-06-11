@@ -13,9 +13,23 @@ h2{
   margin-right: 150px;
   color: #000000;
 }
-.subheader{
 
+#ingredients li{
+  list-style-type: none;
+  border-bottom: 1px;
+  border-bottom-style: dotted;
+  margin-right: 250px;
+  margin-left:-20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
-#id{
-
+#instructions li{
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-left: 30px;
+}
+footer{
+  padding:20px;
+  background-color: #202020;
+  color: #ffffff;
 }
